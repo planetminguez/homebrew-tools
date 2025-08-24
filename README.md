@@ -1,4 +1,5 @@
 # Homebrew Tap: planetminguez/tools
+[![Bump python2exe formula](https://github.com/planetminguez/homebrew-tools/actions/workflows/bump-python2exe.yml/badge.svg)](https://github.com/planetminguez/homebrew-tools/actions/workflows/bump-python2exe.yml)
 
 Personal Homebrew tap with tools and new formulae.
 
